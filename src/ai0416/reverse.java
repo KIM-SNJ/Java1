@@ -16,5 +16,7 @@ public class reverse {
         System.out.print(e.charAt(2));
         System.out.print(e.charAt(1));
         System.out.print(e.charAt(0));
+
+        //aaaaaaaaaaaaaa
     }
 }
