@@ -3,7 +3,7 @@ package ai0326;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class AgeTest02 {
+public class AgeTest {
     public static void main(String[] args) {
         System.out.println("나이 계산");
         Scanner s = new Scanner(System.in);
