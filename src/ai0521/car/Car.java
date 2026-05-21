@@ -13,7 +13,7 @@ public class Car {
 // 기본생성자(default constructor): 객체만 생성하고 필드의 값을 초기화시키지 않는다.
 
 // 기본 생성자
-    public Car(String product) {
+    public Car() {
     }
 
 
